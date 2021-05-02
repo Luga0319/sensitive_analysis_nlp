@@ -1,6 +1,13 @@
 # Sentiment Analysis for Movie Reviews
-The goal of sentiment analysis is to quantify the attitudes expressed in a content using natural language 
-processing, text analysis, computational linguistics to determine whether the input text is positive or 
-negative based on previous text data. This method is widely used in social media monitoring and the social 
-media platforms are using basic sentiment analysis to analyze the users opinions. 
-It can also be used to analyze the customers satisfaction metrics which could help the company investigate the customer reviews in a more convinent way.
+This project used the historical dataset including customer comments to the movies and review labels as "positive" or "negative" to train the NLP models. By learning from 2k+ reviews, the model could predict whether the comment is positive and negative with given context. 
+
+## Dataset
+I used the movie-review dataset including 64,720 rows of data with "positive"/"negative" tag and text
+ https://www.kaggle.com/nltkdata/movie-review
+ 
+## Method
+### Bag of Words Model
+### Built the pipeline of Naive Bayes Model as the baseline classifier
+### Logistic Regression Model 
+### Used wordcloud to generate top 40 positive words and top 40 negative words
+ 
