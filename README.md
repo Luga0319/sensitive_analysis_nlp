@@ -14,5 +14,5 @@ I used the movie-review dataset including 64,720 rows of data with "positive"/"n
 ## Negative / Positive Word Clouds
 ![](https://github.com/Luga0319/sensitive_analysis_nlp/blob/main/negative_comment.png "Negative Word Cloud")
 
-![]https://github.com/Luga0319/sensitive_analysis_nlp/blob/main/positive_comment.png "Positive Word Cloud")
+![](https://github.com/Luga0319/sensitive_analysis_nlp/blob/main/positive_comment.png "Positive Word Cloud")
 
