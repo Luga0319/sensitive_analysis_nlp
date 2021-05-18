@@ -12,7 +12,7 @@ I used the movie-review dataset including 64,720 rows of data with "positive"/"n
 ### Used wordcloud to generate top 40 positive words and top 40 negative words
 
 ## Negative / Positive Word Clouds
-![](https://github.com/Luga0319/sensitive_analysis_nlp/blob/main/negative_comment.png "Negative Word Cloud")
+![](https://github.com/Luga0319/sensitive_analysis_nlp/blob/main/negative_word.png "Negative Word Cloud")
 
 ![](https://github.com/Luga0319/sensitive_analysis_nlp/blob/main/positive_comment.png "Positive Word Cloud")
 
